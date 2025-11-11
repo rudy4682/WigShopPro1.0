@@ -1,3 +1,16 @@
+# Wig Shop Pro 1.0.0 Release Notes
+
+Based on Shopify Dawn 15.4.0 with customizations for wig shop businesses.
+
+## Changes from Dawn 15.4.0
+- Rebranded to Wig Shop Pro
+- Updated theme information and documentation
+- Configured baseline settings for distribution
+
+---
+
+## Previous Dawn Release Notes
+
 Dawn 15.3.0 adds pagination to the quick order list, updates settings labels, and introduces a few bug fixes.
 ### Changed
 - Quick order list paginates product variants, improving buyer experience for products containing many variants.

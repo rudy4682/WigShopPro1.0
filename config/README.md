@@ -6,7 +6,7 @@
 - **Purpose**: Clean baseline settings for distribution
 - **Use**: Starting point for new stores or theme sales
 - **Tracked**: ✅ Committed to git
-- **Contains**: Default Dawn theme settings without store-specific customizations
+- **Contains**: Default Wig Shop Pro theme settings without store-specific customizations
 
 ### `settings_data.json`
 - **Purpose**: Dev store specific settings for testing
