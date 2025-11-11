@@ -35,4 +35,4 @@ shopify theme check
 [GitHub Issues](https://github.com/rudy4682/WigShopPro1.0/issues)
 
 ## License
-Copyright © 2025 Wig Shop Pro
+Copyright © 2025 Adams Computer & Network
